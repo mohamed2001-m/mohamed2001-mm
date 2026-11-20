@@ -30,7 +30,9 @@ jobs:
       - name: Install Android 35 using runner SDK tools
         run: |
           echo "ANDROID_HOME=$ANDROID_HOME"
-          sdkmanager "platforms;android-35" "build-tools;35.0.0"
+          SDKMANAGER="$(find "$ANDROID_HOME/cmdline-tools" -type f -name sdkmanager -print -quit)"
+          test -n "$SDKMANAGER"
+          "$SDKMANAGER" "platforms;android-35" "build-tools;35.0.0"
       - name: Build APK
         run: gradle :app:assembleDebug --no-daemon
       - name: Upload debug APK
