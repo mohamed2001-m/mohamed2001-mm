@@ -1,0 +1,60 @@
+name: NITRO RUSH - Build Android APK
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'nitro-rush-android/**'
+      - '.github/workflows/nitro-rush-apk.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+
+      - name: Install Java 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - name: Install Android SDK tools
+        uses: android-actions/setup-android@v3
+
+      - name: Install Gradle
+        uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: '8.9'
+
+      - name: Build APK (offline game assets included)
+        run: gradle -p nitro-rush-android :app:assembleDebug --no-daemon
+
+      - name: Prepare APK
+        run: cp nitro-rush-android/app/build/outputs/apk/debug/app-debug.apk NITRO-RUSH.apk
+
+      - name: Upload installable Android APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: NITRO-RUSH-APK
+          path: NITRO-RUSH.apk
+          if-no-files-found: error
+          retention-days: 90
+
+      - name: Publish GitHub Release with direct APK link
+        if: github.ref == 'refs/heads/main'
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create "nitro-rush-v1.0.${GITHUB_RUN_NUMBER}" NITRO-RUSH.apk \
+            --title "NITRO RUSH APK v1.0.${GITHUB_RUN_NUMBER}" \
+            --notes "Arabic racing game for Android. Install NITRO-RUSH.apk directly. Debug-signed testing build." \
+            --target "${GITHUB_SHA}" \
+            --latest

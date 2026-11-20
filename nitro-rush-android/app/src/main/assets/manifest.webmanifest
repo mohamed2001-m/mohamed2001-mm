@@ -1,0 +1,10 @@
+{
+  "name":"NITRO RUSH - اندفاع السرعة",
+  "short_name":"NITRO RUSH",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "lang":"ar",
+  "dir":"rtl",
+  "background_color":"#070c1c",
+  "theme_color":"#070c1c"
+}
