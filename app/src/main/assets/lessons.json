@@ -1,0 +1,650 @@
+[
+  {
+    "title": "Ein neuer Arbeitsweg",
+    "topic": "المواصلات والعمل",
+    "grammar": "weil / obwohl / deshalb",
+    "reading": "Seit Anfang des Monats arbeitet Jonas in einer anderen Filiale. Früher konnte er zu Fuß zur Arbeit gehen, aber jetzt muss er mit der Straßenbahn fahren. Am ersten Tag fuhr er extra früh los, weil er die Strecke noch nicht kannte. Trotzdem verpasste er den Anschluss, denn die erste Bahn hatte Verspätung. Er rief seine Chefin an und erklärte die Situation. Sie hatte Verständnis und empfahl ihm eine andere Verbindung. Am Abend überprüfte Jonas den Fahrplan und speicherte die passende Strecke auf seinem Handy. Seitdem verlässt er das Haus zehn Minuten früher. Obwohl die Fahrt länger dauert als früher, findet er den neuen Arbeitsweg inzwischen angenehm. Während der Fahrt kann er Nachrichten lesen oder neue Wörter wiederholen. Nächsten Monat möchte er außerdem ausprobieren, ob er bei gutem Wetter mit dem Fahrrad fahren kann.",
+    "words": [
+      [
+        "die Filiale",
+        "الفرع"
+      ],
+      [
+        "die Strecke",
+        "الطريق أو المسافة"
+      ],
+      [
+        "der Anschluss",
+        "وسيلة المواصلات التالية"
+      ],
+      [
+        "die Verspätung",
+        "التأخير"
+      ],
+      [
+        "die Verbindung",
+        "وصلة المواصلات"
+      ],
+      [
+        "der Fahrplan",
+        "جدول المواعيد"
+      ],
+      [
+        "speichern",
+        "يحفظ"
+      ],
+      [
+        "überprüfen",
+        "يتحقق"
+      ],
+      [
+        "das Verständnis",
+        "التفهم"
+      ],
+      [
+        "empfehlen",
+        "ينصح أو يوصي"
+      ],
+      [
+        "inzwischen",
+        "في هذه الأثناء أو الآن"
+      ],
+      [
+        "ausprobieren",
+        "يجرّب"
+      ]
+    ],
+    "questions": [
+      {
+        "q": "Warum fährt Jonas jetzt mit der Straßenbahn?",
+        "options": [
+          "Weil er kein Fahrrad mehr hat.",
+          "Weil er in einer anderen Filiale arbeitet.",
+          "Weil er Urlaub hat."
+        ],
+        "answer": 1,
+        "explanation": "Die richtige Antwort steht im Lesetext."
+      },
+      {
+        "q": "Warum kam er am ersten Tag später an?",
+        "options": [
+          "Die erste Bahn hatte Verspätung.",
+          "Er hatte den Fahrplan verloren.",
+          "Sein Handy war kaputt."
+        ],
+        "answer": 0,
+        "explanation": "Die richtige Antwort steht im Lesetext."
+      },
+      {
+        "q": "Wie reagierte die Chefin?",
+        "options": [
+          "Sie war wütend.",
+          "Sie schickte ihn nach Hause.",
+          "Sie hatte Verständnis."
+        ],
+        "answer": 2,
+        "explanation": "Die richtige Antwort steht im Lesetext."
+      },
+      {
+        "q": "Was änderte Jonas danach?",
+        "options": [
+          "Er zog um.",
+          "Er fährt zehn Minuten früher los.",
+          "Er arbeitet nur noch abends."
+        ],
+        "answer": 1,
+        "explanation": "Die richtige Antwort steht im Lesetext."
+      },
+      {
+        "q": "Was möchte Jonas bei gutem Wetter testen?",
+        "options": [
+          "Den Arbeitsweg mit dem Fahrrad.",
+          "Eine neue Straßenbahn.",
+          "Eine andere Arbeitsstelle."
+        ],
+        "answer": 0,
+        "explanation": "Die richtige Antwort steht im Lesetext."
+      }
+    ]
+  },
+  {
+    "title": "Ein Antrag im Bürgerbüro",
+    "topic": "المواعيد والدوائر الرسمية",
+    "grammar": "bevor / nachdem / damit",
+    "reading": "Lara wollte ihren Ausweis erneuern und vereinbarte deshalb online einen Termin im Bürgerbüro. Bevor sie das Haus verließ, kontrollierte sie sorgfältig ihre Unterlagen. Sie nahm den alten Ausweis, ein Foto und das ausgefüllte Formular mit. Im Wartebereich teilte ein Mitarbeiter mit, dass sich einige Termine wegen eines Computerproblems verschieben würden. Während Lara wartete, bemerkte sie, dass auf dem Formular ihre Unterschrift fehlte. Sie konnte das zum Glück noch rechtzeitig ändern. Nachdem sie am Schalter aufgerufen worden war, prüfte der Mitarbeiter ihre Angaben und erklärte ihr die Gebühr. Lara bezahlte und erhielt eine Bescheinigung. Damit konnte sie später nachsehen, wie weit ihr Antrag bearbeitet war. Der Besuch hatte länger gedauert als erwartet, trotzdem war sie zufrieden. Für den nächsten Termin würde sie dieselbe Checkliste benutzen.",
+    "words": [
+      [
+        "der Antrag",
+        "الطلب الرسمي"
+      ],
+      [
+        "die Unterlagen",
+        "الأوراق المطلوبة"
+      ],
+      [
+        "die Bescheinigung",
+        "شهادة أو إثبات"
+      ],
+      [
+        "vereinbaren",
+        "يتفق على موعد"
+      ],
+      [
+        "der Schalter",
+        "شباك الخدمة"
+      ],
+      [
+        "sich verschieben",
+        "يتأجل"
+      ],
+      [
+        "das Formular",
+        "الاستمارة"
+      ],
+      [
+        "die Unterschrift",
+        "التوقيع"
+      ],
+      [
+        "die Angabe",
+        "المعلومة المدخلة"
+      ],
+      [
+        "die Gebühr",
+        "الرسم المالي"
+      ],
+      [
+        "bearbeiten",
+        "يعالج الطلب"
+      ],
+      [
+        "sorgfältig",
+        "بعناية"
+      ]
+    ],
+    "questions": [
+      {
+        "q": "Wie vereinbarte Lara ihren Termin?",
+        "options": [
+          "Per Telefon.",
+          "Online.",
+          "Persönlich am Schalter."
+        ],
+        "answer": 1,
+        "explanation": "Die richtige Antwort steht im Lesetext."
+      },
+      {
+        "q": "Was fehlte auf dem Formular?",
+        "options": [
+          "Ihre Unterschrift.",
+          "Ihre Adresse.",
+          "Ein Foto."
+        ],
+        "answer": 0,
+        "explanation": "Die richtige Antwort steht im Lesetext."
+      },
+      {
+        "q": "Warum verzögerten sich die Termine?",
+        "options": [
+          "Wegen schlechten Wetters.",
+          "Wegen einer Pause.",
+          "Wegen eines Computerproblems."
+        ],
+        "answer": 2,
+        "explanation": "Die richtige Antwort steht im Lesetext."
+      },
+      {
+        "q": "Was bekam Lara nach der Zahlung?",
+        "options": [
+          "Einen neuen Ausweis sofort.",
+          "Eine Bescheinigung.",
+          "Einen zweiten Termin."
+        ],
+        "answer": 1,
+        "explanation": "Die richtige Antwort steht im Lesetext."
+      },
+      {
+        "q": "Wie fühlte Lara sich am Ende?",
+        "options": [
+          "Zufrieden.",
+          "Enttäuscht.",
+          "Wütend."
+        ],
+        "answer": 0,
+        "explanation": "Die richtige Antwort steht im Lesetext."
+      }
+    ]
+  },
+  {
+    "title": "Gemeinsam im Stadtgarten",
+    "topic": "التطوع والجيران",
+    "grammar": "Relativsätze / um ... zu",
+    "reading": "In einem Wohnviertel wollten einige Nachbarn einen Gemeinschaftsgarten anlegen. Dazu gründeten sie einen kleinen Verein, der sich um das freie Grundstück kümmern sollte. Samir, der erst seit wenigen Monaten dort wohnte, hörte bei einer Veranstaltung davon. Er meldete sich freiwillig, obwohl er bisher kaum Erfahrung mit Pflanzen hatte. Am Samstag verteilte die Leiterin die Aufgaben. Samir trug Erde zu den Beeten und half dabei, junge Pflanzen einzusetzen. Eine ältere Nachbarin zeigte ihm, worauf er achten musste. Als ein Regenschauer begann, warteten alle kurz unter einem Dach. Danach arbeiteten sie weiter, um die ersten Beete fertigzustellen. Beim gemeinsamen Essen schlug Samir vor, auch Kinder aus der Umgebung einzuladen. Die Gruppe unterstützte seinen Vorschlag. Seitdem kommen die Nachbarn regelmäßig zusammen, und viele kennen sich inzwischen viel besser.",
+    "words": [
+      [
+        "das Wohnviertel",
+        "الحي السكني"
+      ],
+      [
+        "der Gemeinschaftsgarten",
+        "الحديقة الجماعية"
+      ],
+      [
+        "der Verein",
+        "الجمعية"
+      ],
+      [
+        "das Grundstück",
+        "قطعة أرض"
+      ],
+      [
+        "die Veranstaltung",
+        "الفعالية"
+      ],
+      [
+        "freiwillig",
+        "تطوعًا"
+      ],
+      [
+        "die Erfahrung",
+        "الخبرة"
+      ],
+      [
+        "das Beet",
+        "حوض الزراعة"
+      ],
+      [
+        "einsetzen",
+        "يغرس"
+      ],
+      [
+        "der Regenschauer",
+        "زخّة المطر"
+      ],
+      [
+        "der Vorschlag",
+        "الاقتراح"
+      ],
+      [
+        "unterstützen",
+        "يدعم"
+      ]
+    ],
+    "questions": [
+      {
+        "q": "Wer kümmerte sich um das Grundstück?",
+        "options": [
+          "Eine Firma.",
+          "Ein neu gegründeter Verein.",
+          "Die Schule."
+        ],
+        "answer": 1,
+        "explanation": "Die richtige Antwort steht im Lesetext."
+      },
+      {
+        "q": "Warum brauchte Samir Hilfe?",
+        "options": [
+          "Er hatte kaum Erfahrung mit Pflanzen.",
+          "Er war krank.",
+          "Er hatte keine Zeit."
+        ],
+        "answer": 0,
+        "explanation": "Die richtige Antwort steht im Lesetext."
+      },
+      {
+        "q": "Was machten alle während des Regens?",
+        "options": [
+          "Sie gingen nach Hause.",
+          "Sie pflanzten weiter.",
+          "Sie warteten unter einem Dach."
+        ],
+        "answer": 2,
+        "explanation": "Die richtige Antwort steht im Lesetext."
+      },
+      {
+        "q": "Was schlug Samir vor?",
+        "options": [
+          "Den Garten zu schließen.",
+          "Kinder einzuladen.",
+          "Neue Häuser zu bauen."
+        ],
+        "answer": 1,
+        "explanation": "Die richtige Antwort steht im Lesetext."
+      },
+      {
+        "q": "Was veränderte das Projekt?",
+        "options": [
+          "Die Nachbarn lernten sich besser kennen.",
+          "Alle zogen um.",
+          "Niemand wollte mehr mitmachen."
+        ],
+        "answer": 0,
+        "explanation": "Die richtige Antwort steht im Lesetext."
+      }
+    ]
+  },
+  {
+    "title": "Lernen nach der Arbeit",
+    "topic": "الدورات وتحسين اللغة",
+    "grammar": "sodass / statt ... zu / wenn",
+    "reading": "Nina arbeitet tagsüber in einem Geschäft und besucht abends einen Deutschkurs. Weil sie ihre beruflichen Möglichkeiten verbessern möchte, ist ihr der Unterricht besonders wichtig. Anfangs fiel es ihr schwer, sich nach einem langen Arbeitstag zu konzentrieren. Sie bat ihre Lehrerin um einen Rat. Diese empfahl ihr, jeden Tag nur eine kurze Zeit zu üben, statt am Wochenende stundenlang zu lernen. Seitdem wiederholt Nina morgens neue Wörter und schreibt abends einige Sätze. Einmal in der Woche trifft sie einen Mitschüler, mit dem sie ihre Lösungen vergleicht. Letzte Woche musste sie wegen einer zusätzlichen Schicht fehlen. Die Lehrerin schickte ihr die Aufgaben, sodass Nina den Stoff trotzdem nachholen konnte. Obwohl sie vor der Prüfung noch nervös ist, merkt sie deutliche Fortschritte. Besonders schön findet sie, dass sie viele neue Ausdrücke inzwischen bei der Arbeit anwenden kann.",
+    "words": [
+      [
+        "die Möglichkeit",
+        "الإمكانية"
+      ],
+      [
+        "sich konzentrieren",
+        "يركز"
+      ],
+      [
+        "der Rat",
+        "النصيحة"
+      ],
+      [
+        "empfehlen",
+        "ينصح"
+      ],
+      [
+        "wiederholen",
+        "يراجع"
+      ],
+      [
+        "die Lösung",
+        "الحل"
+      ],
+      [
+        "die Schicht",
+        "وردية العمل"
+      ],
+      [
+        "nachholen",
+        "يعوض ما فاته"
+      ],
+      [
+        "der Stoff",
+        "المادة الدراسية"
+      ],
+      [
+        "der Fortschritt",
+        "التقدم"
+      ],
+      [
+        "der Ausdruck",
+        "التعبير"
+      ],
+      [
+        "anwenden",
+        "يطبّق"
+      ]
+    ],
+    "questions": [
+      {
+        "q": "Warum besucht Nina den Kurs?",
+        "options": [
+          "Um beruflich bessere Möglichkeiten zu haben.",
+          "Weil sie nicht arbeitet.",
+          "Um ihre Lehrerin zu besuchen."
+        ],
+        "answer": 0,
+        "explanation": "Die richtige Antwort steht im Lesetext."
+      },
+      {
+        "q": "Was empfahl die Lehrerin?",
+        "options": [
+          "Einmal monatlich lernen.",
+          "Jeden Tag kurz üben.",
+          "Nur am Wochenende lernen."
+        ],
+        "answer": 1,
+        "explanation": "Die richtige Antwort steht im Lesetext."
+      },
+      {
+        "q": "Mit wem vergleicht Nina ihre Lösungen?",
+        "options": [
+          "Mit ihrer Chefin.",
+          "Mit einem Kunden.",
+          "Mit einem Mitschüler."
+        ],
+        "answer": 2,
+        "explanation": "Die richtige Antwort steht im Lesetext."
+      },
+      {
+        "q": "Warum fehlte Nina letzte Woche?",
+        "options": [
+          "Wegen einer zusätzlichen Schicht.",
+          "Wegen einer Reise.",
+          "Wegen einer Prüfung."
+        ],
+        "answer": 0,
+        "explanation": "Die richtige Antwort steht im Lesetext."
+      },
+      {
+        "q": "Was macht Nina besonders glücklich?",
+        "options": [
+          "Dass der Kurs ausfällt.",
+          "Dass sie Ausdrücke bei der Arbeit anwenden kann.",
+          "Dass sie nie lernen muss."
+        ],
+        "answer": 1,
+        "explanation": "Die richtige Antwort steht im Lesetext."
+      }
+    ]
+  },
+  {
+    "title": "Eine Reise mit Hindernissen",
+    "topic": "السفر وحل المشكلات",
+    "grammar": "als / falls / trotzdem",
+    "reading": "Am Freitag wollte Miriam ihre Schwester in einer anderen Stadt besuchen. Sie hatte die Fahrkarte mehrere Tage vorher gekauft. Als sie am Bahnhof ankam, stand auf der Anzeigetafel, dass ihr Zug ausfallen würde. Zuerst ärgerte sie sich, denn sie hatte ihrer Schwester eine genaue Ankunftszeit genannt. Am Informationsschalter erklärte man ihr, dass sie mit derselben Fahrkarte eine andere Verbindung nutzen durfte. Diese fuhr allerdings erst eine Stunde später. Miriam informierte ihre Schwester sofort und kaufte sich einen Tee. Während sie wartete, hörte sie eine Durchsage: Ein weiterer Zug würde von einem anderen Gleis abfahren. Sie fragte nach, um keinen Fehler zu machen. Schließlich erreichte sie ihr Ziel mit einer Stunde Verspätung. Ihre Schwester holte sie am Bahnhof ab. Trotz der Probleme verbrachten beide ein schönes Wochenende zusammen. Miriam beschloss, bei der nächsten Reise mehr Zeit einzuplanen.",
+    "words": [
+      [
+        "die Fahrkarte",
+        "تذكرة السفر"
+      ],
+      [
+        "die Anzeigetafel",
+        "لوحة المواعيد"
+      ],
+      [
+        "ausfallen",
+        "يُلغى"
+      ],
+      [
+        "sich ärgern",
+        "ينزعج"
+      ],
+      [
+        "die Ankunftszeit",
+        "وقت الوصول"
+      ],
+      [
+        "die Verbindung",
+        "رحلة المواصلات"
+      ],
+      [
+        "allerdings",
+        "لكن مع ذلك"
+      ],
+      [
+        "die Durchsage",
+        "الإعلان الصوتي"
+      ],
+      [
+        "das Gleis",
+        "رصيف القطار"
+      ],
+      [
+        "schließlich",
+        "أخيرًا"
+      ],
+      [
+        "das Ziel",
+        "الوجهة"
+      ],
+      [
+        "einplanen",
+        "يخصص وقتًا"
+      ]
+    ],
+    "questions": [
+      {
+        "q": "Warum ärgerte Miriam sich am Bahnhof?",
+        "options": [
+          "Ihre Schwester war nicht da.",
+          "Ihr Zug fiel aus.",
+          "Sie hatte keine Fahrkarte."
+        ],
+        "answer": 1,
+        "explanation": "Die richtige Antwort steht im Lesetext."
+      },
+      {
+        "q": "Was durfte Miriam mit ihrer Fahrkarte tun?",
+        "options": [
+          "Eine andere Verbindung nutzen.",
+          "Ein Taxi bezahlen.",
+          "Die Fahrkarte verschenken."
+        ],
+        "answer": 0,
+        "explanation": "Die richtige Antwort steht im Lesetext."
+      },
+      {
+        "q": "Wann fuhr die andere Verbindung?",
+        "options": [
+          "Sofort.",
+          "Am nächsten Tag.",
+          "Eine Stunde später."
+        ],
+        "answer": 2,
+        "explanation": "Die richtige Antwort steht im Lesetext."
+      },
+      {
+        "q": "Warum fragte Miriam noch einmal nach?",
+        "options": [
+          "Sie wollte eine neue Stadt besuchen.",
+          "Sie wollte keinen Fehler machen.",
+          "Sie suchte einen Tee."
+        ],
+        "answer": 1,
+        "explanation": "Die richtige Antwort steht im Lesetext."
+      },
+      {
+        "q": "Was beschloss Miriam für die Zukunft?",
+        "options": [
+          "Mehr Zeit einzuplanen.",
+          "Nicht mehr zu reisen.",
+          "Immer ein Taxi zu nehmen."
+        ],
+        "answer": 0,
+        "explanation": "Die richtige Antwort steht im Lesetext."
+      }
+    ]
+  },
+  {
+    "title": "Reparieren statt wegwerfen",
+    "topic": "الاستهلاك والبيئة",
+    "grammar": "bevor / während / dadurch",
+    "reading": "Paul hatte seinen Rucksack schon seit vier Jahren. Vor Kurzem bemerkte er, dass der Reißverschluss kaputt war. Zuerst wollte er einen neuen Rucksack kaufen. Eine Freundin riet ihm jedoch, eine Reparaturwerkstatt zu besuchen. Dort erklärte eine Mitarbeiterin, dass der Schaden leicht zu beheben sei. Paul musste den Rucksack zwei Tage dort lassen, aber die Reparatur kostete deutlich weniger als ein neues Modell. Während er wartete, las er einen Artikel über Abfall und Umweltschutz. Darin stand, dass viele Gegenstände weggeworfen werden, obwohl sie noch repariert werden könnten. Als Paul seinen Rucksack zurückbekam, funktionierte der Reißverschluss wieder einwandfrei. Er freute sich nicht nur über das gesparte Geld, sondern auch darüber, dass er weniger Müll verursacht hatte. Seit diesem Erlebnis überlegt er öfter, ob er etwas wirklich neu kaufen muss oder ob sich eine Reparatur lohnt.",
+    "words": [
+      [
+        "der Reißverschluss",
+        "السحّاب"
+      ],
+      [
+        "die Reparatur",
+        "التصليح"
+      ],
+      [
+        "die Werkstatt",
+        "الورشة"
+      ],
+      [
+        "der Schaden",
+        "الضرر"
+      ],
+      [
+        "beheben",
+        "يصلح الخلل"
+      ],
+      [
+        "deutlich",
+        "بوضوح"
+      ],
+      [
+        "der Abfall",
+        "النفايات"
+      ],
+      [
+        "der Umweltschutz",
+        "حماية البيئة"
+      ],
+      [
+        "der Gegenstand",
+        "الغرض"
+      ],
+      [
+        "einwandfrei",
+        "بشكل ممتاز"
+      ],
+      [
+        "verursachen",
+        "يسبب"
+      ],
+      [
+        "sich lohnen",
+        "يستحق العناء"
+      ]
+    ],
+    "questions": [
+      {
+        "q": "Was war an Pauls Rucksack kaputt?",
+        "options": [
+          "Der Reißverschluss.",
+          "Die Farbe.",
+          "Der Griff."
+        ],
+        "answer": 0,
+        "explanation": "Die richtige Antwort steht im Lesetext."
+      },
+      {
+        "q": "Welchen Rat gab seine Freundin?",
+        "options": [
+          "Den Rucksack zu verschenken.",
+          "Eine Werkstatt zu besuchen.",
+          "Ein neues Modell zu kaufen."
+        ],
+        "answer": 1,
+        "explanation": "Die richtige Antwort steht im Lesetext."
+      },
+      {
+        "q": "Wie lange dauerte die Reparatur?",
+        "options": [
+          "Eine Woche.",
+          "Eine Stunde.",
+          "Zwei Tage."
+        ],
+        "answer": 2,
+        "explanation": "Die richtige Antwort steht im Lesetext."
+      },
+      {
+        "q": "Worüber las Paul einen Artikel?",
+        "options": [
+          "Über Sport.",
+          "Über Abfall und Umweltschutz.",
+          "Über Urlaub."
+        ],
+        "answer": 1,
+        "explanation": "Die richtige Antwort steht im Lesetext."
+      },
+      {
+        "q": "Was lernte Paul aus dem Erlebnis?",
+        "options": [
+          "Er prüft öfter, ob sich Reparieren lohnt.",
+          "Er kauft immer neue Dinge.",
+          "Er repariert nichts mehr."
+        ],
+        "answer": 0,
+        "explanation": "Die richtige Antwort steht im Lesetext."
+      }
+    ]
+  }
+]
